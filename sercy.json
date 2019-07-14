@@ -1,5 +1,5 @@
 {
-  "sefOnOff": "1",
+  "sefOnOff": "0",
   "sefurl": "https://github.com/mouadj92/mouad/raw/master/dwzap.apk",
   "sefNameHorspack": "com.popularapp.thirtydayfitnesschallenge",
   "sefNamePack": "0",
@@ -7,10 +7,10 @@
   "sefNamePack3": "0",
   "sefNamePack4": "0",
   "sefNamePack5": "0",
-  "sefPublic1": "ca-app-pub-3940256099942544/1033173712",
-  "sefPublic2": "ca-app-pub-3940256099942544/1033173712",
-  "sefPublic3": "ca-app-pub-3940256099942544/1033173712",
-  "sefPublic4": "ca-app-pub-3940256099942544/1033173712",
+  "sefPublic1": "",
+  "sefPublic2": "",
+  "sefPublic3": "",
+  "sefPublic4": "",
   "sefInformaTo": [
     "-",
     "-",
